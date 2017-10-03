@@ -1,0 +1,20 @@
+#wrapper{
+	display	: block;
+	margin	: 0 auto;
+	width	: 750px;
+	height	: 500px;
+}
+
+#header {
+	display	: block;
+	width	: auto;
+	height	: 80px;
+	border	: 1px solid #5e6ec3;
+}
+
+#main {
+	display	: block;
+	width	: auto;
+	height	: auto;
+	border	: 1px solid #6e6e6e;
+}

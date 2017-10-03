@@ -1,0 +1,6 @@
+Directory tree : 
+
+FOLDER_WEB
+  - index.html
+  - css
+      ->style.css
