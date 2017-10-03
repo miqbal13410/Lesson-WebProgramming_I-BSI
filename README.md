@@ -5,7 +5,7 @@ Latihan pembelajaran web programming I BSI Dewi Sartika Semester 5.
 FOLDER_WEB
 - index.html
 - css
-    -style.css
+    - style.css
 
 # Histori
 Pertemuan 2 : <Selasa, 3 Oktober 2017>  
@@ -13,4 +13,4 @@ membuat folder dan file :
 FOLDER_WEB
 - index.html
 - css
--style.css
+    - style.css
