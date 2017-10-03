@@ -9,7 +9,8 @@ FOLDER_WEB
 
 # Histori
 Pertemuan 2 : <Selasa, 3 Oktober 2017>  
-membuat folder dan file : 
+Membuat folder dan file : 
+
 FOLDER_WEB
 - index.html
 - css
